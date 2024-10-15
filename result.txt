@@ -1,0 +1,41 @@
+Query 1: vegetarian recipes with chickpeas and spinach
+Average Precision: 0.0000
+Top 5 Documents:
+Document: Egg _Curry.txt, Score: 6.9860
+Document: Momo_Recipe.txt, Score: 0.4859
+Document: Chicken_sandwiches.txt, Score: 0.4778
+Document: Mutton_Curry.txt, Score: 0.4740
+Document: Chicken_Gravy.txt, Score: 0.4593
+
+Query 2: Chicken Gravy
+Average Precision: 0.7000
+Top 5 Documents:
+Document: Chicken_Gravy.txt, Score: 3.9013
+Document: Egg _Curry.txt, Score: 1.8849
+Document: Chicken_sandwiches.txt, Score: 0.6919
+Document: Grilled_Chicken.txt, Score: 0.6882
+Document: Chicken_Roll.txt, Score: 0.6690
+
+Query 3: Mutton Curry
+Average Precision: 1.0000
+Top 5 Documents:
+Document: Mutton_Curry.txt, Score: 5.3053
+Document: Egg _Curry.txt, Score: 2.4531
+Document: Chicken_Gravy.txt, Score: 1.8589
+Document: Chicken_Roll.txt, Score: 1.6311
+
+Query 4: Pizza
+Average Precision: 1.0000
+Top 5 Documents:
+Document: Pizza.txt, Score: 4.5520
+
+Query 5: high-protein smoothie recipes
+Average Precision: 0.0000
+Top 5 Documents:
+Document: Egg _Curry.txt, Score: 6.3625
+Document: Chow_Mein.txt, Score: 2.0006
+Document: Grilled_Chicken.txt, Score: 0.6606
+Document: Momo_Recipe.txt, Score: 0.6322
+Document: Mutton_Curry.txt, Score: 0.5871
+
+Mean Average Precision (MAP): 0.5400
